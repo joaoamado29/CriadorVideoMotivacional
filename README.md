@@ -1,0 +1,1 @@
+Para o codigo funcionar é necessário uma pasta chamada "Videos" com uma lista de videos (de preferencia mp4) e uma pasta chamada "Musicas" com uma lista de musicas (de preferencia mp3) para colocar de fundo.
